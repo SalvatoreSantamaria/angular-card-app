@@ -1,0 +1,7 @@
+/* to select a host element from inside the accompanying components css file */
+
+:host {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
